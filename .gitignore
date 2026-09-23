@@ -1,0 +1,35 @@
+# Rust
+target/
+Cargo.lock.orig
+
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.ruff_cache/
+.pytest_cache/
+.hypothesis/
+*.so
+*.pyd
+
+# maturin
+target/wheels/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.swp
+
+# Local scratch
+scratch/
