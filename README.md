@@ -118,7 +118,7 @@ Things I've decided not to do are listed in the design doc, so nobody has to ope
 
 - **Something's broken or missing:** [open an issue](https://github.com/NAU-OSS/preheat/issues/new). At this stage, an issue that says "I tried to imagine using this for my class and here's where it falls apart" is as useful as a bug report.
 - **A question, or you're not sure it's an issue:** [Discussions](https://github.com/NAU-OSS/preheat/discussions). Q&A for questions, Ideas for everything else.
-- **Something security-related:** please don't open a public issue. A `SECURITY.md` with a private reporting path is coming with the first code; until then, contact me directly through GitHub.
+- **Something security-related:** please don't open a public issue. [SECURITY.md](SECURITY.md) has the private reporting path, and a note about why recipes deserve the same caution as any other code you run.
 
 I read everything. I don't promise to reply within a day, but I do promise to reply.
 
@@ -126,7 +126,7 @@ I read everything. I don't promise to reply within a day, but I do promise to re
 
 I would like help, and not only with code. If you teach a course and would tell me what your ideal student repo looks like, that's a contribution. If you've fought with cookiecutter and have a list of grievances, that's a contribution. Recipe ideas, name suggestions for the profiles, disagreement with any of the defaults in the design doc: all welcome, in the issues or in Discussions.
 
-A `CONTRIBUTING.md` with the mechanics (dev setup, how recipes are tested, what a good PR looks like) and a code of conduct are coming with the first code. Until then, opening an issue is the right move for anything.
+[CONTRIBUTING.md](CONTRIBUTING.md) has the mechanics: where things go, what a bug report needs, how recipes are tested, and what a PR looks like. Everyone participating is expected to follow the [code of conduct](CODE_OF_CONDUCT.md). If you're not sure where something belongs, an issue is fine for anything.
 
 ## License
 
